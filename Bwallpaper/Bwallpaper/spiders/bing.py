@@ -17,4 +17,4 @@ class BingSpider(scrapy.Spider):
                 'image_name': n,
                 'image_url': u
             }
-
+        yield scrapy.Request(self.url+next_url,callback=self.parse)

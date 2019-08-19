@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdf86a23-5f03-4f0d-961e-b7fbcced626d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bingwallp/bingwallp/start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bwallpaper/Bwallpaper/spiders/wallpaper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bwallpaper/Bwallpaper/spiders/wallpaper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bwallpaper/Bwallpaper/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bwallpaper/Bwallpaper/start.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,42 +11,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bingwallp/bingwallp/spiders/bing.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bingwallp/bingwallp/pipelines.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#193#243#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bingwallp/bingwallp/start.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bingwallp/bingwallp/settings.py">
+        <entry file="file://$PROJECT_DIR$/Bwallpaper/Bwallpaper/spiders/bing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+            <state relative-caret-position="75">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bwallpaper/Bwallpaper/start.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -70,8 +47,6 @@
       <list>
         <option value="$PROJECT_DIR$/Bwallpaper/Bwallpaper/pipelines.py" />
         <option value="$PROJECT_DIR$/Bwallpaper/Bwallpaper/settings.py" />
-        <option value="$PROJECT_DIR$/Bwallpaper/Bwallpaper/spiders/bing.py" />
-        <option value="$PROJECT_DIR$/Bwallpaper/Bwallpaper/start.py" />
         <option value="$PROJECT_DIR$/Bwallpaper/Bwallpaper/input_url.py" />
         <option value="$PROJECT_DIR$/bing.py" />
         <option value="$PROJECT_DIR$/bingwallp/bingwallp/start.py" />
@@ -79,6 +54,8 @@
         <option value="$PROJECT_DIR$/bingwallp/bingwallp/spiders/bing.py" />
         <option value="$PROJECT_DIR$/bingwallp/bingwallp/pipelines.py" />
         <option value="$PROJECT_DIR$/Bwallpaper/Bwallpaper/spiders/wallpaper.py" />
+        <option value="$PROJECT_DIR$/Bwallpaper/Bwallpaper/start.py" />
+        <option value="$PROJECT_DIR$/Bwallpaper/Bwallpaper/spiders/bing.py" />
       </list>
     </option>
   </component>
@@ -100,6 +77,24 @@
             <path>
               <item name="crawler" type="b2602c69:ProjectViewProjectNode" />
               <item name="crawler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="bingwallp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="bingwallp" type="462c0819:PsiDirectoryNode" />
+              <item name="bingwallp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawler" type="462c0819:PsiDirectoryNode" />
+              <item name="bingwallp" type="462c0819:PsiDirectoryNode" />
+              <item name="bingwallp" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="crawler" type="b2602c69:ProjectViewProjectNode" />
@@ -278,22 +273,23 @@
       <updated>1566194844806</updated>
       <workItem from="1566194854784" duration="8587000" />
       <workItem from="1566204006450" duration="2677000" />
+      <workItem from="1566217464304" duration="741000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11264000" />
+    <option name="totallyTimeSpent" value="12005000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17865254" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18168055" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.6907563" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38991597" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.58655465" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -342,7 +338,7 @@
     <SUITE FILE_PATH="coverage/crawler$start__1_.coverage" NAME="start (1) Coverage Results" MODIFIED="1566207580713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bingwallp/bingwallp" />
     <SUITE FILE_PATH="coverage/crawler$bing__1_.coverage" NAME="bing (1) Coverage Results" MODIFIED="1566202914290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$bing.coverage" NAME="bing Coverage Results" MODIFIED="1566201289439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/crawler$start.coverage" NAME="start Coverage Results" MODIFIED="1566207847969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bwallpaper/Bwallpaper" />
+    <SUITE FILE_PATH="coverage/crawler$start.coverage" NAME="start Coverage Results" MODIFIED="1566218137644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bwallpaper/Bwallpaper" />
     <SUITE FILE_PATH="coverage/crawler$input_url.coverage" NAME="input_url Coverage Results" MODIFIED="1566199786729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bwallpaper/Bwallpaper" />
   </component>
   <component name="debuggerHistoryManager">
@@ -426,38 +422,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bwallpaper/Bwallpaper/spiders/bing.py" />
     <entry file="file://$PROJECT_DIR$/Bwallpaper/Bwallpaper/input_url.py" />
     <entry file="file://$PROJECT_DIR$/demo.py" />
     <entry file="file://$PROJECT_DIR$/bing.py" />
-    <entry file="file://$PROJECT_DIR$/bingwallp/bingwallp/spiders/bing.py">
+    <entry file="file://$PROJECT_DIR$/bingwallp/bingwallp/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bwallpaper/Bwallpaper/spiders/wallpaper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bwallpaper/Bwallpaper/start.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bingwallp/bingwallp/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#193#243#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="307">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -468,10 +439,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bingwallp/bingwallp/settings.py">
+    <entry file="file://$PROJECT_DIR$/bingwallp/bingwallp/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        <state relative-caret-position="383">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#193#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bingwallp/bingwallp/spiders/bing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bwallpaper/Bwallpaper/spiders/wallpaper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bwallpaper/Bwallpaper/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bwallpaper/Bwallpaper/spiders/bing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="20" />
         </state>
       </provider>
     </entry>
