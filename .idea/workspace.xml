@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdf86a23-5f03-4f0d-961e-b7fbcced626d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Wechat/Wechat/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DoubanBook/DoubanBook/start.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,7 +12,54 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DoubanBook/DoubanBook/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#267#553#0" />
+                <element signature="e#623#1232#0" />
+                <element signature="e#1325#2770#0" />
+                <element signature="e#2841#3092#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DoubanBook/DoubanBook/spiders/DouBan.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+                <element signature="e#101#854#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DoubanBook/DoubanBook/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="533">
+              <caret line="83" column="35" lean-forward="true" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DoubanBook/DoubanBook/start.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,10 +89,18 @@
         <option value="$PROJECT_DIR$/Wechat/Wechat/start.py" />
         <option value="$PROJECT_DIR$/Wechat/Wechat/spiders/Tencent.py" />
         <option value="$PROJECT_DIR$/Wechat/Wechat/pipelines.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/DoubanBook/DoubanBook/start.py" />
+        <option value="$PROJECT_DIR$/DoubanBook/DoubanBook/spiders/DouBan.py" />
+        <option value="$PROJECT_DIR$/DoubanBook/DoubanBook/settings.py" />
+        <option value="$PROJECT_DIR$/Scrapy连接数据库.md" />
+        <option value="$PROJECT_DIR$/DoubanBook/DoubanBook/pipelines.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="249" />
+    <option name="y" value="-11" />
     <option name="width" value="683" />
     <option name="height" value="738" />
   </component>
@@ -57,7 +112,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="crawler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crawler" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -67,6 +132,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Project\crawler" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -80,7 +150,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.start (2)">
+  <component name="RunManager" selected="Python.start (3)">
     <configuration name="bing (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,28 +165,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bing.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="bing" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="crawler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\Project\crawler\demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,6 +217,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="start (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="crawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DoubanBook/DoubanBook" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DoubanBook/DoubanBook/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,11 +263,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.start (3)" />
         <item itemvalue="Python.start (2)" />
         <item itemvalue="Python.start" />
         <item itemvalue="Python.start (1)" />
         <item itemvalue="Python.bing (1)" />
-        <item itemvalue="Python.bing" />
       </list>
     </recent_temporary>
   </component>
@@ -216,22 +286,28 @@
       <workItem from="1566217464304" duration="1045000" />
       <workItem from="1566218725597" duration="191000" />
       <workItem from="1566267526550" duration="5790000" />
+      <workItem from="1566279266994" duration="3307000" />
+      <workItem from="1566285988175" duration="988000" />
+      <workItem from="1566289258369" duration="28000" />
+      <workItem from="1566290094005" duration="4663000" />
+      <workItem from="1566294994937" duration="2709000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18290000" />
+    <option name="totallyTimeSpent" value="29985000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18773656" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4944134" visible="true" weight="0.21044663" />
+      <window_info id="Structure" order="1" sideWeight="0.50558656" side_tool="true" weight="0.19076458" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38991597" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39831933" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6386555" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.7882353" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -282,9 +358,40 @@
     <SUITE FILE_PATH="coverage/crawler$start__2_.coverage" NAME="start (2) Coverage Results" MODIFIED="1566273670469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Wechat/Wechat" />
     <SUITE FILE_PATH="coverage/crawler$start.coverage" NAME="start Coverage Results" MODIFIED="1566218137644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bwallpaper/Bwallpaper" />
     <SUITE FILE_PATH="coverage/crawler$input_url.coverage" NAME="input_url Coverage Results" MODIFIED="1566199786729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bwallpaper/Bwallpaper" />
+    <SUITE FILE_PATH="coverage/crawler$start__3_.coverage" NAME="start (3) Coverage Results" MODIFIED="1566297442257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DoubanBook/DoubanBook" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>book_names</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>name</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>book_name</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>response.xpath('//div[@class=&quot;pl2&quot;]/a').xpath('string(.)').extract()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>response.xpath('//span[@class=&quot;rating_nums&quot;]').xpath('string(.)').extract()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>response.xpath('//span[@class=&quot;rating_nums&quot;]').extract()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>self.url + next_url</expression-string>
         <language-id>Python</language-id>
@@ -297,36 +404,6 @@
       </expression>
       <expression>
         <expression-string>item</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>item['tencent_list'].replace('\n','')</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>item['tencent_list']</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>response.xpath('//ul[@class=&quot;news-list2&quot;]/li/dl[1]').xpath('string(.)').extract()</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>response.xpath('//div[@class=&quot;txt-box&quot;]/p').xpath('string(.)').extract()</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>response.xpath('//div[@class=&quot;txt-box&quot;]/p').xpath('string(.)').extract().replace('\n','')</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>input('请输入你要爬取的壁纸的第一页网址:(最后加一个空格)').split('')</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -392,13 +469,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wechat/Wechat/start.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Wechat/Wechat/tencent.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -424,6 +494,74 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="137">
           <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wechat/Wechat/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanBook/DoubanBook/books.txt" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/Scrapy连接数据库.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="150">
+            <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
+            <folding>
+              <element signature="e#16#37#0" />
+              <element signature="e#38#107#0" />
+              <element signature="e#176#199#0" />
+              <element signature="e#450#1123#0" />
+              <element signature="e#1110#1128#0" />
+              <element signature="e#1210#2739#0" />
+              <element signature="e#0#14#0" expanded="true" />
+              <element signature="e#2741#2756#0" />
+              <element signature="e#2841#3156#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanBook/DoubanBook/spiders/DouBan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+            <element signature="e#101#854#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanBook/DoubanBook/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="83" column="35" lean-forward="true" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanBook/DoubanBook/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DoubanBook/DoubanBook/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#267#553#0" />
+            <element signature="e#623#1232#0" />
+            <element signature="e#1325#2770#0" />
+            <element signature="e#2841#3092#0" />
+          </folding>
         </state>
       </provider>
     </entry>
