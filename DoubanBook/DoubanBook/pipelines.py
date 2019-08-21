@@ -24,8 +24,6 @@ class DoubanbookPipeline(object):
 import pymysql
 
 '''mysql同步处理'''
-
-
 class PyMySqlPipeline(object):
     def __init__(self):
         self.connect = pymysql.connect(
@@ -52,8 +50,6 @@ class PyMySqlPipeline(object):
 from twisted.enterprise import adbapi
 
 '''mysql异步处理数据'''
-
-
 class MySQLPipeline(object):
 
     def __init__(self, dbpool):

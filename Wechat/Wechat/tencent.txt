@@ -1,37 +1,10 @@
-{"tencent_list": "足球频道:微信号：nmgzqpd", "tencent_info": "功能介绍：2017年8月,经国家批准,“内蒙古足球频道”升格为“足球频道”,收视范围由内蒙古扩展为全国,“足球频道”作为内蒙古足球改革事业的一张亮丽名片,走向全国."}
-{"tencent_list": "欧罗足球预测:微信号：NHX-communities", "tencent_info": "功能介绍：欧罗精算,国内足球赛事及足彩预测的顶级大数据平台;创造了中国足彩预测多次奇迹,回报率极高;服务万千彩民,帮助更多人中大奖."}
-{"tencent_list": "搜达足球:微信号：sodasoccer2014", "tencent_info": "功能介绍：搜达足球——致力于提供全面、准确、深度、个性化的足球数据与资讯服务.部分内容来自网友分享,如有版权争议请私信."}
-{"tencent_list": "捷报足球推荐:微信号：jbnowscore", "tencent_info": "功能介绍：精选捷报网认证作者原创足球分析,大小联赛尽收囊中,每天用心为众多球友提供免费的足球赛事推荐!"}
-{"tencent_list": "哥德杯足球:微信号：GothiaCupChina", "tencent_info": "功能介绍：哥德杯中国官方微信.哥德杯是世界最大青少年足球赛事.全世界青少年为了足球相聚,为了快乐,分享,友谊."}
-{"tencent_list": "足球大赢家:微信号：zqdyj888", "tencent_info": "功能介绍：集足球大赢家11年专业经验,给广大彩民提供最及时准确的足彩资讯和分析工具,协助彩民显著提升竞技彩票中奖率,提供以小博大的实用技巧和冷门分析,500万不是梦!"}
-{"tencent_list": "河北足球:微信号：hebeizuqiu", "tencent_info": "功能介绍：河北足球信息动态"}
-{"tencent_list": "海鸟足球:微信号：seabirdfootball", "tencent_info": "功能介绍：以匠人之心,致力足球服务.主营足球培训、赛事运营、青训加盟、专业输出、足球经纪、场馆运营等.现全国范围内服务10余个城市,覆盖30余所大中小型院校,合作企业、媒体等机构近10家,全力打造从普及到精英的完..."}
-{"tencent_list": "延边足球:微信号：yanbianfootball", "tencent_info": "功能介绍：支持延边足球,关注延边足球!“延边足球”为您报道延足赛事、讲述球迷故事."}
-{"tencent_list": "校园足球联盟:微信号：csfl-xm", "tencent_info": "功能介绍：校园足球联盟,可能是行业内最专业的青少年足球官方公众号 .1.青少年足球政策行业深度分析 2.专注中国足球青训,关注潜力小妖 3.家长:如何科学陪伴孩子 4.学员:海量教学视频 5.教练裁判:丰富教程教案,裁判资料 6...."}
-{"tencent_list": "鑫途足球:微信号：syxtzq", "tencent_info": "功能介绍：鑫途足球训练基地地址:张湾区配套处黄麻沟金盾驾校旁联系电话:0719-8490631"}
-{"tencent_list": "足球小记者:微信号：ximingclub", "tencent_info": "功能介绍：《足球小记者》由北京市青少年体育科技促进会主管,中国下一代教育基金会洪元硕校园足球园丁奖公益支持,力求公信力、接地气,传播校园足球文化、推动校园足球普及,充分展示校园足球育人功能,促进学生健康成长,..."}
-{"tencent_list": "足球不过是个球:微信号：ChineseBeautyList", "tencent_info": "功能介绍：我也是柳岩的球迷"}
-{"tencent_list": "常熟市草根足球联盟:微信号：CSSL_FOOTBALL", "tencent_info": "功能介绍：常熟足球原创报道,联赛、杯赛信息发布"}
-{"tencent_list": "太空翼少儿足球:微信号：taikongyi_edu", "tencent_info": "功能介绍：北大清华毕业生精英教学团队,独创SoDo足球教学理念.致力于在中国普及以足球运动为载体的、完全人格的理想主义教育."}
-{"tencent_list": "国米足球俱乐部:微信号：fcinternazionaleclub", "tencent_info": "功能介绍：国际米兰足球俱乐部官方微信,为中国球迷提供俱乐部和球队资讯.FORZA INTER!"}
-{"tencent_list": "巴塞罗那足球俱乐部:微信号：FCBarcelona_Official", "tencent_info": "功能介绍：FCBarcelona Offcial Account 巴塞罗那足球俱乐部官方账号"}
-{"tencent_list": "皇家马德里足球俱乐部:微信号：Realmadrid_official", "tencent_info": "功能介绍：皇家马德里足球俱乐部官方账号"}
-{"tencent_list": "球叮足球:微信号：qiudingzuqiu", "tencent_info": "功能介绍：球叮,和朋友一起享受足球~"}
-{"tencent_list": "育星足球俱乐部:微信号：YXFootballClub", "tencent_info": "功能介绍：育星足球俱乐部是一群青年人自发组织成立的非盈利性业余足球俱乐部.俱乐部通过定期训练、比赛等活动,激发俱乐部会员的运动热情,增强俱乐部会员的身体素质,加深会员之间的了解与友谊,提高俱乐部会员的技战术水..."}
-{"tencent_list": "长春亚泰足球俱乐部:微信号：ccyataifc", "tencent_info": "功能介绍：关注长春亚泰足球俱乐部订阅号,这里会第一时间发布球队的最新动态哦^_^"}
-{"tencent_list": "深圳市足球俱乐部:微信号：SHENZHEN-FC", "tencent_info": "功能介绍：深圳市足球俱乐部"}
-{"tencent_list": "ENJOYZ足球装备网:微信号：ENJOYZ-com", "tencent_info": "功能介绍：ENJOYZ足球装备网 官方账号"}
-{"tencent_list": "西樵足球协会:微信号：xiqiaofa", "tencent_info": "功能介绍：西樵足球协会"}
-{"tencent_list": "北京金龙足球俱乐部:微信号：jinlongzuqiu", "tencent_info": "功能介绍：足球培训"}
-{"tencent_list": "星锐青少年足球俱乐部:微信号：XRFC-Y", "tencent_info": "功能介绍：吕梁市星锐青少年足球俱乐部专注于青少年足球发展、以培养足球兴趣和推广足球运动为目标,提供最专业的技术与服务,引进最先进的足球理念,让更多更好的青少年参与到足球这项运动中来.用有限的力量传递足球、传递..."}
-{"tencent_list": "南通支云足球俱乐部:微信号：gh_ebc5c253d2cd", "tencent_info": "功能介绍：发布球队新闻、比赛信息、球迷活动等"}
-{"tencent_list": "临泉志匡足球俱乐部:微信号：lqzk96com", "tencent_info": "功能介绍：打造临泉人自己的百年足球俱乐部."}
-{"tencent_list": "遂宁奥卡雄狮足球俱乐部:微信号：Sn-Okalion", "tencent_info": "功能介绍：奥卡雄狮足球俱乐部立足于通过快乐足球培养孩子综合能力的培训机构,让孩子能更全面,更健康地成长.将体育精神融入到孩子的身体素质、性格养成、团队协作、领导能力的培养中.培训主要针对4-16岁的青少年,按照国..."}
-{"tencent_list": "英德市足球协会:微信号：YDFA0763", "tencent_info": "功能介绍：获取最新英德足球资讯,了解英德足球动态,敬请关注英德足球协会微信公众平台."}
-{"tencent_list": "彭州市足球协会:微信号：gh_bc3b69676efe", "tencent_info": "功能介绍：各类足球赛事组织;校园足球指导、服务;儿童青少年足球培训;教练员培训;裁判员培训等"}
-{"tencent_list": "足球笑料:微信号：footballfunny", "tencent_info": "功能介绍：足球可以笑着看~"}
-{"tencent_list": "足球教学:微信号：FOOTBALL0", "tencent_info": "功能介绍：足球实用技术指南.爱足球,踢足球,爱生活;80%的踢球人都关注的平台!"}
-{"tencent_list": "聊足球:微信号：liaozuqiu", "tencent_info": "功能介绍：竞彩、竞彩足球、胜负彩、足彩、推荐分析资讯媒体."}
-{"tencent_list": "日联足球推荐:微信号：rzzqtj", "tencent_info": "功能介绍：全免费日本足球分析,原创日联媒体解读,专门研究日职联或者日本足球!成绩真实统计且上季盈利!逢周末必更新!日联和日职联就看我们!"}
-{"tencent_list": "杨震猜足球:微信号：yanglotto", "tencent_info": "功能介绍：热爱足球,探讨决定比赛结果的原因."}
-{"tencent_list": "山东足球:微信号：shandongzuqiu", "tencent_info": "功能介绍：关注山东省职业足球发展,业余足球发展,草根足球发展,校园足球发展.发布山东省职业足球,业余足球,草根足球,校园足球赛事消息."}
+{"tencent_name": "\n足球频道\n", "tencent_number": "微信号：nmgzqpd\n", "tencent_info": "\n功能介绍：\n2017年8月,经国家批准,“内蒙古足球频道”升格为“足球频道”,收视范围由内蒙古扩展为全国,“足球频道”作为内蒙古足球改革事业的一张亮丽名片,走向全国.\n"}
+{"tencent_name": "\n欧罗足球预测\n", "tencent_number": "微信号：NHX-communities\n", "tencent_info": "\n功能介绍：\n欧罗精算,国内足球赛事及足彩预测的顶级大数据平台;创造了中国足彩预测多次奇迹,回报率极高;服务万千彩民,帮助更多人中大奖.\n"}
+{"tencent_name": "\n搜达足球\n", "tencent_number": "微信号：sodasoccer2014\n", "tencent_info": "\n功能介绍：\n搜达足球——致力于提供全面、准确、深度、个性化的足球数据与资讯服务.部分内容来自网友分享,如有版权争议请私信.\n"}
+{"tencent_name": "\n捷报足球推荐\n", "tencent_number": "微信号：jbnowscore\n", "tencent_info": "\n功能介绍：\n精选捷报网认证作者原创足球分析,大小联赛尽收囊中,每天用心为众多球友提供免费的足球赛事推荐!\n"}
+{"tencent_name": "\n哥德杯足球\n", "tencent_number": "微信号：GothiaCupChina\n", "tencent_info": "\n功能介绍：\n哥德杯中国官方微信.哥德杯是世界最大青少年足球赛事.全世界青少年为了足球相聚,为了快乐,分享,友谊.\n"}
+{"tencent_name": "\n足球大赢家\n", "tencent_number": "微信号：zqdyj888\n", "tencent_info": "\n功能介绍：\n集足球大赢家11年专业经验,给广大彩民提供最及时准确的足彩资讯和分析工具,协助彩民显著提升竞技彩票中奖率,提供以小博大的实用技巧和冷门分析,500万不是梦!\n"}
+{"tencent_name": "\n河北足球\n", "tencent_number": "微信号：hebeizuqiu\n", "tencent_info": "\n功能介绍：\n河北足球信息动态\n"}
+{"tencent_name": "\n海鸟足球\n", "tencent_number": "微信号：seabirdfootball\n", "tencent_info": "\n功能介绍：\n以匠人之心,致力足球服务.主营足球培训、赛事运营、青训加盟、专业输出、足球经纪、场馆运营等.现全国范围内服务10余个城市,覆盖30余所大中小型院校,合作企业、媒体等机构近10家,全力打造从普及到精英的完...\n"}
+{"tencent_name": "\n延边足球\n", "tencent_number": "微信号：yanbianfootball\n", "tencent_info": "\n功能介绍：\n支持延边足球,关注延边足球!“延边足球”为您报道延足赛事、讲述球迷故事.\n"}
+{"tencent_name": "\n校园足球联盟\n", "tencent_number": "微信号：csfl-xm\n", "tencent_info": "\n功能介绍：\n校园足球联盟,可能是行业内最专业的青少年足球官方公众号 .1.青少年足球政策行业深度分析 2.专注中国足球青训,关注潜力小妖 3.家长:如何科学陪伴孩子 4.学员:海量教学视频 5.教练裁判:丰富教程教案,裁判资料 6....\n"}

@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdf86a23-5f03-4f0d-961e-b7fbcced626d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DoubanBook/DoubanBook/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/admin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wechat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/crawler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/crawler.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoubanBook/DoubanBook/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/DoubanBook/DoubanBook/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wechat/Wechat/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/Wechat/Wechat/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wechat/Wechat/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/Wechat/Wechat/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wechat/Wechat/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Wechat/Wechat/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wechat/Wechat/spiders/Tencent.py" beforeDir="false" afterPath="$PROJECT_DIR$/Wechat/Wechat/spiders/Tencent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wechat/Wechat/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/Wechat/Wechat/start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wechat/Wechat/tencent.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,47 +24,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Wechat/Wechat/spiders/Tencent.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DoubanBook/DoubanBook/pipelines.py">
+        <entry file="file://$PROJECT_DIR$/Wechat/Wechat/start.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#267#553#0" />
-                <element signature="e#623#1232#0" />
-                <element signature="e#1325#2770#0" />
-                <element signature="e#2841#3092#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DoubanBook/DoubanBook/spiders/DouBan.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-              <folding>
-                <element signature="e#24#37#0" expanded="true" />
-                <element signature="e#101#854#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DoubanBook/DoubanBook/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="533">
-              <caret line="83" column="35" lean-forward="true" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DoubanBook/DoubanBook/start.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="78">
               <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
@@ -85,22 +68,24 @@
         <option value="$PROJECT_DIR$/Bwallpaper/Bwallpaper/spiders/wallpaper.py" />
         <option value="$PROJECT_DIR$/Bwallpaper/Bwallpaper/start.py" />
         <option value="$PROJECT_DIR$/Bwallpaper/Bwallpaper/spiders/bing.py" />
-        <option value="$PROJECT_DIR$/Wechat/Wechat/settings.py" />
-        <option value="$PROJECT_DIR$/Wechat/Wechat/start.py" />
-        <option value="$PROJECT_DIR$/Wechat/Wechat/spiders/Tencent.py" />
-        <option value="$PROJECT_DIR$/Wechat/Wechat/pipelines.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/DoubanBook/DoubanBook/start.py" />
         <option value="$PROJECT_DIR$/DoubanBook/DoubanBook/spiders/DouBan.py" />
         <option value="$PROJECT_DIR$/DoubanBook/DoubanBook/settings.py" />
         <option value="$PROJECT_DIR$/Scrapy连接数据库.md" />
+        <option value="$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions" />
         <option value="$PROJECT_DIR$/DoubanBook/DoubanBook/pipelines.py" />
+        <option value="$PROJECT_DIR$/Wechat/Wechat/settings.py" />
+        <option value="$PROJECT_DIR$/Wechat/Wechat/items.py" />
+        <option value="$PROJECT_DIR$/Wechat/Wechat/pipelines.py" />
+        <option value="$PROJECT_DIR$/Wechat/Wechat/spiders/Tencent.py" />
+        <option value="$PROJECT_DIR$/Wechat/Wechat/start.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="249" />
-    <option name="y" value="-11" />
+    <option name="x" value="436" />
+    <option name="y" value="-13" />
     <option name="width" value="683" />
     <option name="height" value="738" />
   </component>
@@ -112,6 +97,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,15 +109,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Wechat" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -150,7 +136,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.start (3)">
+  <component name="RunManager" selected="Python.start (2)">
     <configuration name="bing (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -263,8 +249,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.start (3)" />
         <item itemvalue="Python.start (2)" />
+        <item itemvalue="Python.start (3)" />
         <item itemvalue="Python.start" />
         <item itemvalue="Python.start (1)" />
         <item itemvalue="Python.bing (1)" />
@@ -290,18 +276,26 @@
       <workItem from="1566285988175" duration="988000" />
       <workItem from="1566289258369" duration="28000" />
       <workItem from="1566290094005" duration="4663000" />
-      <workItem from="1566294994937" duration="2709000" />
+      <workItem from="1566294994937" duration="2945000" />
+      <workItem from="1566301175273" duration="45000" />
+      <workItem from="1566374701837" duration="113000" />
+      <workItem from="1566375121001" duration="147000" />
+      <workItem from="1566376459875" duration="828000" />
+      <workItem from="1566377319223" duration="389000" />
+      <workItem from="1566377821572" duration="1521000" />
+      <workItem from="1566380383691" duration="1561000" />
+      <workItem from="1566381987772" duration="242000" />
+      <workItem from="1566382479441" duration="378000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29985000" />
+    <option name="totallyTimeSpent" value="35445000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4944134" visible="true" weight="0.21044663" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4944134" visible="true" weight="0.2339137" />
       <window_info id="Structure" order="1" sideWeight="0.50558656" side_tool="true" weight="0.19076458" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -314,7 +308,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32850242" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.28739497" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -341,6 +335,11 @@
           <line>9</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Wechat/Wechat/spiders/Tencent.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -355,7 +354,7 @@
     <SUITE FILE_PATH="coverage/crawler$start__1_.coverage" NAME="start (1) Coverage Results" MODIFIED="1566207580713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bingwallp/bingwallp" />
     <SUITE FILE_PATH="coverage/crawler$bing__1_.coverage" NAME="bing (1) Coverage Results" MODIFIED="1566202914290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/crawler$bing.coverage" NAME="bing Coverage Results" MODIFIED="1566201289439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/crawler$start__2_.coverage" NAME="start (2) Coverage Results" MODIFIED="1566273670469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Wechat/Wechat" />
+    <SUITE FILE_PATH="coverage/crawler$start__2_.coverage" NAME="start (2) Coverage Results" MODIFIED="1566382538585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Wechat/Wechat" />
     <SUITE FILE_PATH="coverage/crawler$start.coverage" NAME="start Coverage Results" MODIFIED="1566218137644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bwallpaper/Bwallpaper" />
     <SUITE FILE_PATH="coverage/crawler$input_url.coverage" NAME="input_url Coverage Results" MODIFIED="1566199786729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bwallpaper/Bwallpaper" />
     <SUITE FILE_PATH="coverage/crawler$start__3_.coverage" NAME="start (3) Coverage Results" MODIFIED="1566297442257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DoubanBook/DoubanBook" />
@@ -469,101 +468,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wechat/Wechat/tencent.txt">
+    <entry file="file://$PROJECT_DIR$/DoubanBook/DoubanBook/books.txt" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/Scrapy连接数据库.md" />
+    <entry file="file://$PROJECT_DIR$/DoubanBook/DoubanBook/start.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm64.exe.vmoptions" />
+    <entry file="file://$PROJECT_DIR$/DoubanBook/DoubanBook/spiders/DouBan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wechat/Wechat/tencent.txt" />
+    <entry file="file://$PROJECT_DIR$/DoubanBook/DoubanBook/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="80" column="33" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Wechat/Wechat/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Wechat/Wechat/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Wechat/Wechat/spiders/Tencent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Wechat/Wechat/start.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DoubanBook/DoubanBook/books.txt" />
-    <entry file="file://$PROJECT_DIR$/test.py" />
-    <entry file="file://$PROJECT_DIR$/Scrapy连接数据库.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="150">
-            <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
-            <folding>
-              <element signature="e#16#37#0" />
-              <element signature="e#38#107#0" />
-              <element signature="e#176#199#0" />
-              <element signature="e#450#1123#0" />
-              <element signature="e#1110#1128#0" />
-              <element signature="e#1210#2739#0" />
-              <element signature="e#0#14#0" expanded="true" />
-              <element signature="e#2741#2756#0" />
-              <element signature="e#2841#3156#0" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DoubanBook/DoubanBook/spiders/DouBan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-          <folding>
-            <element signature="e#24#37#0" expanded="true" />
-            <element signature="e#101#854#0" />
-          </folding>
+        <state relative-caret-position="155">
+          <caret line="90" column="18" selection-start-line="90" selection-start-column="18" selection-end-line="90" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DoubanBook/DoubanBook/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="83" column="35" lean-forward="true" selection-start-line="83" selection-start-column="35" selection-end-line="83" selection-end-column="35" />
+        <state relative-caret-position="377">
+          <caret line="101" column="17" lean-forward="true" selection-start-line="96" selection-end-line="101" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DoubanBook/DoubanBook/start.py">
+    <entry file="file://$PROJECT_DIR$/Wechat/Wechat/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DoubanBook/DoubanBook/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="380">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
           <folding>
-            <element signature="e#267#553#0" />
-            <element signature="e#623#1232#0" />
-            <element signature="e#1325#2770#0" />
-            <element signature="e#2841#3092#0" />
+            <element signature="e#194#216#0" expanded="true" />
+            <element signature="e#253#688#0" />
+            <element signature="e#783#1735#0" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Wechat/Wechat/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Clawer/images/images/spiders/image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="42" lean-forward="true" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Clawer/images/images/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wechat/Wechat/spiders/Tencent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wechat/Wechat/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

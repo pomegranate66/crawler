@@ -63,9 +63,9 @@ ROBOTSTXT_OBEY = False
 
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-ITEM_PIPELINES = {
-   'Wechat.pipelines.WechatPipeline': 300,
-}
+# ITEM_PIPELINES = {
+#    'Wechat.pipelines.WechatPipeline': 300,
+# }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
@@ -87,3 +87,15 @@ ITEM_PIPELINES = {
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+
+ITEM_PIPELINES = {
+   'Wechat.pipelines.WechatMySQLPipeline': 300,
+   # 'Wechat.pipelines.WechatPipeline': 300,
+}
+
+MYSQL_HOST = '127.0.0.1'
+MYSQL_DBNAME = 'crawl'
+MYSQL_USER = 'root'
+MYSQL_PASSWD = 'root'
+
+MYSQL_PORT = 3306
